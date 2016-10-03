@@ -1,0 +1,6 @@
+#.gitignore
+tmp/
+cookbooks/
+*.lock
+*.log
+.vagrant/
